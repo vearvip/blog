@@ -2,11 +2,11 @@
 prefixName:
 siteName: 唯二主義
 # favicon and site master avatar
-favicon: /images/favicon.ico
-avatar: /img/custom/avatar.jpg
-url: https://sakura.hojun.cn
+favicon: /img/favicon/favicon.ico
+avatar: /img/avatar/avatar.webp
+url: https://vear.coding.me
 description: 我们必须全力奔跑,才能停留在原地
-cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+cdn: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.6
 pjax: 1
 # 1开启
 mathjax: 0
@@ -47,7 +47,9 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.4/img/carousel/jiangnanshaojiu.webp
+  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.6/img/carousel/江南烧酒.webp
+  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.6/img/carousel/绿森冒险者.webp
+  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.6/img/carousel/红枫林武士.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
@@ -65,12 +67,12 @@ siteBuildingTime: 07/17/2018
 
 #social  url, img PC端配置
 social:
-  github: {url: http://github.com/honjun, img: /img/social/github.png}
-  # sina: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/sina.png}
-  wangyiyun: {url: https://music.163.com/#/user/home?id=291120746, img: /img/social/wangyiyun.png}
-  # zhihu: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/zhihu.png}
-  # email: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/email.svg}
-  wechat: {url: /#, qrcode: /img/custom/wechat.jpg, img: /img/social/wechat.png}
+  github: {url: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.6, img: /img/icon/github.png}
+  sina: {url: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.6, img: /img/icon/sina.png}
+  wangyiyun: {url: https://music.163.com/#/user/home?id=291120746, img: /img/icon/wangyiyun.png}
+  zhihu: {url: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.6, img: /img/icon/zhihu.png}
+  email: {url: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.6, img: /img/icon/email.svg}
+  wechat: {url: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.6, qrcode: /img/icon/wxcode.jpg, img: /img/icon/wechat.png}
 
 #social  url, img 移动端配置
 msocial:
