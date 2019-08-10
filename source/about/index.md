@@ -7,8 +7,8 @@ comments: false
 photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/about.jpg
 ---
 {% raw %}
-<div class="moe-mashiro" style="text-align:center; font-size: 50px; margin-bottom: 20px;">[さくら荘のhojun]</div>
-<div id="hello-mashiro" class="popcontainer" style="min-height: 300px; padding: 2px 6px 4px; background-color: rgba(242, 242, 242, 0.5); border-radius: 10px;">
+<!-- <div class="moe-mashiro" style="text-align:center; font-size: 50px; margin-bottom: 20px;">[唯二主義]</div> -->
+<!-- <div id="hello-mashiro" class="popcontainer" style="min-height: 300px; padding: 2px 6px 4px; background-color: rgba(242, 242, 242, 0.5); border-radius: 10px;">
   <center>
   <p>
   </p>
@@ -26,6 +26,12 @@ photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/about.jpg
   </p>
   </center>
   <bot-ui></botui>
+</div> -->
+<div style="width: 100%;border:1px dashed #eee;border-radius: 5px;text-align: center;">
+    <p>你好，很高兴认识你！</p>
+    <p>我的网名 -> 唯二(vear)</p>
+    <p>当然你也可以叫我：阿沢。</p>
+    <p>无所谓，名字只是一个代号</p>
 </div>
 <script src="https://cdn.jsdelivr.net/vue/latest/vue.min.js"></script>
 <script src="https://unpkg.com/botui/build/botui.min.js"></script>

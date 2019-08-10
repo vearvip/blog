@@ -6,7 +6,7 @@ favicon: /img/favicon/favicon.ico
 avatar: /img/avatar/avatar.webp
 url: https://vear.coding.me
 description: 我们必须全力奔跑,才能停留在原地
-cdn: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.8
+cdn: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9
 pjax: 1
 # 1开启
 mathjax: 0
@@ -51,9 +51,9 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.8/img/carousel/江南烧酒.webp
-  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.8/img/carousel/绿森冒险者.webp
-  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.8/img/carousel/红枫林武士.webp
+  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/carousel/江南烧酒.webp
+  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/carousel/绿森冒险者.webp
+  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/carousel/红枫林武士.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
@@ -74,16 +74,16 @@ social:
   github: {url: https://github.com/vearvip, img: /img/icon/github.png}
   sina: {url: https://weibo.com/u/2911718935, img: /img/icon/sina.png}
   wangyiyun: {url: https://music.163.com/#/user/home?id=291120746, img: /img/icon/wangyiyun.png}
-  # zhihu: {url: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.8, img: /img/icon/zhihu.png}
+  # zhihu: {url: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9, img: /img/icon/zhihu.png}
   email: {url: mailto:vear.vip@qq.com, img: /img/icon/email.svg}
-  wechat: {url: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.8, qrcode: /img/icon/wxcode.jpg, img: /img/icon/wechat.png}
+  wechat: {qrcode: /img/icon/wxcode.jpg, img: /img/icon/wechat.png}
 
 #social  url, img 移动端配置
 #娘的这个fa: fa-qq是 font_awesome的css icon图标，哎
 msocial:
   github: {url: https://github.com/vearvip, fa: fa-github-alt, color: 333}
   email: {url: mailto:vear.vip@qq.com, fa: fa-envelope, color: ffb437}
-  wechat: {url: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.8/img/icon/wxcode.jpg, fa: fa-wechat, color: 7ad447}
+  wechat: {fa: fa-wechat, color: 7ad447, qrcode: /img/icon/wxcode.jpg}
 
 # 赞赏
 donate:
