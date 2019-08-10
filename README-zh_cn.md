@@ -227,7 +227,7 @@ v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
 生活:
     zh: 生活
     en: live
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/writing.jpg
+    img: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/article/女生读书.webp
 
 #tag
 # 标签名即是标题

@@ -213,7 +213,7 @@ Technology :
 life :
      zh : life 
     EN : live 
-    img : https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/writing.jpg
+    img : https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/article/女生读书.webp
 
 # Tag 
 # tag name that is the title 
