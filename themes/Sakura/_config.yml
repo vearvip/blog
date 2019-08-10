@@ -54,8 +54,6 @@ bg:
   - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/carousel/江南烧酒.webp
   - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/carousel/绿森冒险者.webp
   - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/carousel/红枫林武士.webp
-  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/carousel/女生海边.webp
-  - https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/carousel/女生蝴蝶.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
