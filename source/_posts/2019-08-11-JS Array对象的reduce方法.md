@@ -6,7 +6,7 @@ authorLink: /
 authorAbout: 一只无趣的死宅
 authorDesc: 一只无趣的死宅
 categories: 技术
-date: 2019-08-11 22:10:31
+date: 2019-08-11 22:22:31
 comments: true
 keywords: Sakura
 description: reduce方法是一个神奇的方法
@@ -36,7 +36,7 @@ photos: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.9/img/article/林深时见�
 
    - **原数组** *可选*
 
-     调用reduce()原的数组
+     调用reduce()的原数组
 
 - **自定义累积变量** *可选*
 
