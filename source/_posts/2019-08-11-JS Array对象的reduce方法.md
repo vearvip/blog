@@ -116,5 +116,9 @@ findLongest(['aaa', 'bb', 'c']) // "aaa"
 
 ## 参考资料
 [廖雪峰-JavaScript教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1024322552460832)
+
 [阮一峰-JavaScript教程](https://wangdoc.com/javascript/stdlib/array.html#reduce%EF%BC%8Creduceright)
+
 [MDN-火狐开发者文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+
+注：本文不以盈利为目的，仅做学习交流使用，若有侵权，请联系我删除，万分感谢！
