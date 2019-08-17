@@ -33,7 +33,7 @@ menus:
   #   图集: {path: /tags/图集/, fa: fa-photo }
   # } }
   留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
-  # 友人帐: { path: /links/, fa: fa-link faa-shake }
+  友人帐: { path: /links/, fa: fa-link faa-shake }
   # 赞赏: { path: /donate/, fa: fa-heart faa-pulse }
   # 关于: { path: /, fa: fa-leaf faa-wrench , submenus: { 
   #   我？: {path: /about/, fa: fa-meetup}, 
@@ -112,6 +112,6 @@ aplayer:
 
 # Valine
 valine: true
-v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
-v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
+v_appId: Mi8E75plXgSMdTolbgPQMNJu-gzGzoHsz
+v_appKey: ngs85t38QzDBnLBJLRIr2o4p
 
