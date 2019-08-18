@@ -1,7 +1,7 @@
 ---
 title: Hello World 
 author: vear
-avatar: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.10/img/avatar/avatar.webp
+avatar: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.11/img/avatar/avatar.webp
 authorLink: /
 authorAbout: 一只无趣的死宅
 authorDesc: 一只无趣的死宅
@@ -10,7 +10,7 @@ date: 2019-08-10 12:00:01
 comments: true
 keywords: Sakura
 description: 你好世界
-photos: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.10/img/article/古建筑少女.webp
+photos: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.11/img/article/古建筑少女.webp
 ---
 
 # Hello World

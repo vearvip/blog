@@ -1,7 +1,7 @@
 ---
 title: JS Array对象的reduce方法
 author: vear
-avatar: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.10/img/avatar/avatar.webp
+avatar: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.11/img/avatar/avatar.webp
 authorLink: /
 authorAbout: 一只无趣的死宅
 authorDesc: 一只无趣的死宅
@@ -10,7 +10,7 @@ date: 2019-08-11 22:22:31
 comments: true
 keywords: Sakura
 description: reduce方法是一个神奇的方法
-photos: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.10/img/article/林深时见鹿01.webp
+photos: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.11/img/article/林深时见鹿01.webp
 ---
 # JS Array对象的reduce方法
 ## reduce的用法
