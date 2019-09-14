@@ -3,8 +3,8 @@ title: JS Array对象的reduce方法
 author: vear
 avatar: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.12/img/avatar/avatar.webp
 authorLink: /
-authorAbout: 一只无趣的死宅
-authorDesc: 一只无趣的死宅
+authorAbout: vear
+authorDesc: 唯二
 categories: 技术
 date: 2019-08-11 22:22:31
 comments: true
