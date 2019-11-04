@@ -25,7 +25,7 @@ menus:
   # } }
   技术: {path: /categories/技术/, fa: fa-code }
   生活: {path: /categories/生活/, fa: fa-file-text-o }
-  图集: {path: /tags/图集/, fa: fa-photo }
+  # 图集: {path: /tags/图集/, fa: fa-photo }
   # 清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
   #   书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
   #   番组: {path: /bangumi/, fa: fa-film faa-vertical }, 
