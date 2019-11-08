@@ -1,7 +1,7 @@
 ---
 title: Promises/A+ 规范
 author: vear
-avatar: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.12/img/avatar/avatar.webp
+avatar: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.13/img/avatar/avatar.webp
 authorLink: /
 authorAbout: vear
 authorDesc: 唯二
@@ -10,7 +10,7 @@ date: 2019-09-14 21:13:67
 comments: true
 keywords: Sakura
 description: Promises/A+ 规范的中文翻译
-photos: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.12/img/article/可爱女孩02.webp
+photos: https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.13/img/article/可爱女孩02.webp
 ---
 # 【译】 Promises/A+ 规范
 
